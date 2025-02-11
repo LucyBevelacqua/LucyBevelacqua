@@ -1,3 +1,1 @@
-- ⭐ Hi, I’m @LucyBevelacqua!
-- 🎮 I’m interested in video game and web development.
-- 💎 I’m currently learning how to use GitHub and how to program in Perl!
+
